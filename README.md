@@ -1,4 +1,4 @@
 # hello-world
 Newbie Coder
 
-Hello! I'm Kenn and I am new in coding. I learn more and apply my learnings.
+Hello! I'm Kenn and I am new in coding. I want to learn programming and apply it to solve problems
